@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.samon.top/posts/first_post/</loc>
+    <lastmod>2021-03-13T12:39:32+08:00</lastmod>
+  </url><url>
+    <loc>http://www.samon.top/posts/</loc>
+    <lastmod>2021-03-13T12:39:32+08:00</lastmod>
+  </url><url>
+    <loc>http://www.samon.top/</loc>
+    <lastmod>2021-03-13T12:39:32+08:00</lastmod>
+  </url><url>
+    <loc>http://www.samon.top/categories/</loc>
+  </url><url>
+    <loc>http://www.samon.top/tags/</loc>
+  </url>
+</urlset>
