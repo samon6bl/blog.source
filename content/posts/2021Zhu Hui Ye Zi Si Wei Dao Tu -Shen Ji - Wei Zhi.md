@@ -1,6 +1,6 @@
 +++
 title = "审计椰子思维导图"
-author = "samon"
+author = "Samon"
 lastmod = 2021-09-06T23:11:01+08:00
 draft = false
 toc = true
